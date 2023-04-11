@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="" width="80" />
+    <img src="https://gitlab.com/shastraos/astra/dropspace/-/raw/main/Assets/banner-modified.png" width="480" />
     <h2 align="center">Dropspace</h2>
     <h3 align="center">By Astra</h3>
 </p>
